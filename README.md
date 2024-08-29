@@ -6,7 +6,7 @@ Welcome to the O3Cloud DevOps Consulting Services website! This project showcase
 
 O3Cloud is dedicated to providing top-notch DevOps consulting services with over 10 years of experience in the field. Our goal is to help organizations streamline their software development and deployment processes through effective DevOps practices.
 
-https://o3cloud.github.io
+https://o3-cloud.github.io
 
 ---
 
